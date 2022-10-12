@@ -1708,3 +1708,223 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.10.12-04.41.33:705][390]LogPlayLevel: Display: Destroying online subsystem :Context_44
 [2022.10.12-04.41.43:426][938]LogSlate: Window 'Message Log' being destroyed
 [2022.10.12-04.41.43:430][938]LogSlate: Window 'Message Log' being destroyed
+[2022.10.12-04.43.00:440][514]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-04.43.00:445][514]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-04.43.00:445][514]PIE: New page: PIE session: New_Level (Oct 11, 2022, 6:43:00 PM)
+[2022.10.12-04.43.00:445][514]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_New_Level
+[2022.10.12-04.43.00:480][514]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034360s)
+[2022.10.12-04.43.00:481][514]LogAIModule: Creating AISystem for world New_Level
+[2022.10.12-04.43.00:481][514]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2022.10.12-04.43.00:481][514]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/New_Level.New_Level to /Game/LearningKit_Games/Maps/UEDPIE_0_New_Level.New_Level (0.035479s)
+[2022.10.12-04.43.00:499][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.10.12-04.43.00:529][514]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.10.12-04.43.00:529][514]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-04.43.00:529][514]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-04.43.00:529][514]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-04.43.00:529][514]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-04.43.00:529][514]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-04.43.00:529][514]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-04.43.00:529][514]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-04.43.00:529][514]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-04.43.00:530][514]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-04.43.00:530][514]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-04.43.00:530][514]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-04.43.00:530][514]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-04.43.00:532][514]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.12-04.43.00:532][514]LogAudioMixer: Display: 1: FrontRight
+[2022.10.12-04.43.00:543][514]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.10.12-04.43.00:543][514]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-04.43.00:543][514]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-04.43.00:543][514]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-04.43.00:544][514]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-04.43.00:544][514]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-04.43.00:544][514]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-04.43.00:545][514]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-04.43.00:545][514]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.12-04.43.00:545][514]LogInit: FAudioDevice initialized.
+[2022.10.12-04.43.00:545][514]LogAudio: Display: Audio Device (ID: 7) registered with world 'New_Level'.
+[2022.10.12-04.43.00:551][514]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.12-04.43.00:567][514]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_New_Level.New_Level up for play (max tick rate 60) at 2022.10.11-23.43.00
+[2022.10.12-04.43.02:263][514]LogWorld: Bringing up level for play took: 1.710481
+[2022.10.12-04.43.02:263][514]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.10.12-04.43.02:271][514]PIE: Server logged in
+[2022.10.12-04.43.02:272][514]PIE: Play in editor total start time 1.827 seconds.
+[2022.10.12-04.43.05:918][720]LogCollision: Error: SweepMulti resulted in a NaN/INF in PHit!
+[2022.10.12-04.43.06:035][727]LogCollision: Error: SweepMulti resulted in a NaN/INF in PHit!
+[2022.10.12-04.43.11:300][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-04.43.11:300][ 40]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_New_Level
+[2022.10.12-04.43.11:301][ 40]LogWorld: UWorld::CleanupWorld for New_Level, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-04.43.11:305][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-04.43.11:312][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-04.43.11:330][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-04.43.11:349][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-04.43.11:351][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-04.43.11:352][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-04.43.11:360][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.10.12-04.43.11:414][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.10.12-04.44.31:890][469]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-04.44.31:895][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-04.44.31:895][469]PIE: New page: PIE session: New_Level (Oct 11, 2022, 6:44:31 PM)
+[2022.10.12-04.44.31:895][469]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_New_Level
+[2022.10.12-04.44.31:929][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033919s)
+[2022.10.12-04.44.31:930][469]LogAIModule: Creating AISystem for world New_Level
+[2022.10.12-04.44.31:930][469]LogPlayLevel: PIE: World Init took: (0.000984s)
+[2022.10.12-04.44.31:930][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/New_Level.New_Level to /Game/LearningKit_Games/Maps/UEDPIE_0_New_Level.New_Level (0.035051s)
+[2022.10.12-04.44.31:948][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.10.12-04.44.31:975][469]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.10.12-04.44.31:975][469]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-04.44.31:975][469]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-04.44.31:975][469]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-04.44.31:975][469]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-04.44.31:975][469]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-04.44.31:975][469]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-04.44.31:975][469]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-04.44.31:975][469]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-04.44.31:976][469]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-04.44.31:976][469]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-04.44.31:976][469]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-04.44.31:976][469]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-04.44.31:978][469]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.12-04.44.31:978][469]LogAudioMixer: Display: 1: FrontRight
+[2022.10.12-04.44.31:989][469]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.10.12-04.44.31:990][469]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-04.44.31:990][469]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-04.44.31:990][469]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-04.44.31:990][469]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-04.44.31:990][469]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-04.44.31:990][469]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-04.44.31:991][469]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-04.44.31:991][469]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.12-04.44.31:991][469]LogInit: FAudioDevice initialized.
+[2022.10.12-04.44.31:991][469]LogAudio: Display: Audio Device (ID: 8) registered with world 'New_Level'.
+[2022.10.12-04.44.32:000][469]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.12-04.44.32:016][469]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_New_Level.New_Level up for play (max tick rate 60) at 2022.10.11-23.44.32
+[2022.10.12-04.44.33:665][469]LogWorld: Bringing up level for play took: 1.663846
+[2022.10.12-04.44.33:666][469]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.10.12-04.44.33:674][469]PIE: Server logged in
+[2022.10.12-04.44.33:674][469]PIE: Play in editor total start time 1.78 seconds.
+[2022.10.12-04.44.37:317][682]LogCollision: Error: SweepMulti resulted in a NaN/INF in PHit!
+[2022.10.12-04.44.37:433][689]LogCollision: Error: SweepMulti resulted in a NaN/INF in PHit!
+[2022.10.12-04.47.26:119][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-04.47.26:119][804]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_New_Level
+[2022.10.12-04.47.26:120][804]LogWorld: UWorld::CleanupWorld for New_Level, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-04.47.26:124][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-04.47.26:135][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-04.47.26:153][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-04.47.26:171][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-04.47.26:172][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-04.47.26:173][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-04.47.26:182][804]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.10.12-04.47.26:230][805]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.10.12-04.47.29:655][  0]LogEditorViewport: Clicking on Actor (LMB): PlayerButton_BP_2_C (PlayerButton_BP_2)
+[2022.10.12-04.47.32:000][128]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2
+[2022.10.12-04.47.41:491][429]LogSlate: Window 'Delete Component' being destroyed
+[2022.10.12-04.47.41:496][429]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.10.12-04.47.41:496][429]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] The component that  On Component Begin Overlap (Sphere)  was bound to has been deleted! This node is no longer valid
+[2022.10.12-04.47.41:496][429]BlueprintLog: New page: Removed Owner of Component Bound Event
+[2022.10.12-04.47.41:496][429]BlueprintLog: Error: The component that  On Component Begin Overlap (Sphere)  was bound to has been deleted! This node is no longer valid
+[2022.10.12-04.47.41:506][429]LogScript: Warning: Attempted to access TRASH_SphereComponent_5 via property Sphere, but TRASH_SphereComponent_5 is pending kill
+	PlayerButton_BP_2_C /Game/LearningKit_Games/Maps/New_Level.New_Level:PersistentLevel.PlayerButton_BP_3
+	Function /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2_C:UserConstructionScript:00AD
+[2022.10.12-04.47.41:507][429]LogScript: Warning: Attempted to access TRASH_SphereComponent_0 via property Sphere, but TRASH_SphereComponent_0 is pending kill
+	PlayerButton_BP_2_C /Engine/Transient.World_11:PersistentLevel.PlayerButton_BP_2_C_0
+	Function /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2_C:UserConstructionScript:00AD
+[2022.10.12-04.47.41:507][429]LogScript: Warning: Attempted to access TRASH_SphereComponent_5 via property Sphere, but TRASH_SphereComponent_5 is pending kill
+	PlayerButton_BP_2_C /Engine/Transient.World_39:PersistentLevel.PlayerButton_BP_2_C_0
+	Function /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2_C:UserConstructionScript:00AD
+[2022.10.12-04.47.43:418][518]LogScript: Warning: Attempted to access TRASH_SphereComponent_5 via property Sphere, but TRASH_SphereComponent_5 is pending kill
+	PlayerButton_BP_2_C /Game/LearningKit_Games/Maps/New_Level.New_Level:PersistentLevel.PlayerButton_BP_3
+	Function /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2_C:UserConstructionScript:00AD
+[2022.10.12-04.47.43:418][518]LogScript: Warning: Attempted to access TRASH_SphereComponent_0 via property Sphere, but TRASH_SphereComponent_0 is pending kill
+	PlayerButton_BP_2_C /Engine/Transient.World_11:PersistentLevel.PlayerButton_BP_2_C_0
+	Function /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2_C:UserConstructionScript:00AD
+[2022.10.12-04.47.43:419][518]LogScript: Warning: Attempted to access TRASH_SphereComponent_5 via property Sphere, but TRASH_SphereComponent_5 is pending kill
+	PlayerButton_BP_2_C /Engine/Transient.World_39:PersistentLevel.PlayerButton_BP_2_C_0
+	Function /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2_C:UserConstructionScript:00AD
+[2022.10.12-04.47.44:645][589]LogScript: Warning: Attempted to access TRASH_SphereComponent_5 via property Sphere, but TRASH_SphereComponent_5 is pending kill
+	PlayerButton_BP_2_C /Engine/Transient.World_39:PersistentLevel.PlayerButton_BP_2_C_0
+	Function /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2_C:UserConstructionScript:00AD
+[2022.10.12-04.47.48:008][727]LogScript: Warning: Attempted to access TRASH_SphereComponent_5 via property Sphere, but TRASH_SphereComponent_5 is pending kill
+	PlayerButton_BP_2_C /Game/LearningKit_Games/Maps/New_Level.New_Level:PersistentLevel.PlayerButton_BP_3
+	Function /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2_C:UserConstructionScript:00AD
+[2022.10.12-04.47.48:009][727]LogScript: Warning: Attempted to access TRASH_SphereComponent_0 via property Sphere, but TRASH_SphereComponent_0 is pending kill
+	PlayerButton_BP_2_C /Engine/Transient.World_11:PersistentLevel.PlayerButton_BP_2_C_0
+	Function /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2_C:UserConstructionScript:00AD
+[2022.10.12-04.47.48:010][727]LogScript: Warning: Attempted to access TRASH_SphereComponent_5 via property Sphere, but TRASH_SphereComponent_5 is pending kill
+	PlayerButton_BP_2_C /Engine/Transient.World_39:PersistentLevel.PlayerButton_BP_2_C_0
+	Function /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2_C:UserConstructionScript:00AD
+[2022.10.12-04.47.48:035][727]LogScript: Warning: Attempted to access TRASH_SphereComponent_5 via property Sphere, but TRASH_SphereComponent_5 is pending kill
+	PlayerButton_BP_2_C /Engine/Transient.World_39:PersistentLevel.PlayerButton_BP_2_C_0
+	Function /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2_C:UserConstructionScript:00AD
+[2022.10.12-04.47.49:991][820]BlueprintLog: New page: Compile PlayerButton_BP_2
+[2022.10.12-04.47.49:994][820]LogBlueprint: Error: [AssetLog] C:\Users\murat\OneDrive\Masaüstü\CS415_MP2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\Interactables\PlayerButton_BP_2.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2022.10.12-04.47.50:045][820]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2022.10.12-04.47.50:540][836]LogSavePackage: Moving '../../../../../../Users/murat/OneDrive/Masaüstü/CS415_MP2/UnrealLearningKit/Saved/PlayerButton_BP_2D122587D41949FC3EFF07BAF69AFFCFC.tmp' to '../../../../../../Users/murat/OneDrive/Masaüstü/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.uasset'
+[2022.10.12-04.47.50:589][836]AssetCheck: New page: Asset Save: PlayerButton_BP_2
+[2022.10.12-04.47.50:589][836]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP_2.PlayerButton_BP_2
+[2022.10.12-04.47.53:172][960]LogEditorTransaction: Undo Add Component
+[2022.10.12-04.48.12:009][794]BlueprintLog: New page: Compile PlayerButton_BP_2
+[2022.10.12-04.48.12:013][794]LogBlueprint: Error: [AssetLog] C:\Users\murat\OneDrive\Masaüstü\CS415_MP2\UnrealLearningKit\Content\LearningKit_Games\Blueprints\Interactables\PlayerButton_BP_2.uasset: [Compiler] This blueprint (self) is not a PrimitiveComponent, therefore ' Target ' must have a connection.
+[2022.10.12-04.48.12:058][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.10.12-04.48.26:594][540]LogSlate: Window 'PlayerButton_BP_2' being destroyed
+[2022.10.12-04.48.26:615][540]LogSlate: Window 'PlayerButton_BP_2' being destroyed
+[2022.10.12-04.48.26:617][540]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-04.48.26:617][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-04.48.27:686][595]LogEditorViewport: Clicking on Actor (LMB): PlayerButton_BP_2_C (PlayerButton_BP_2)
+[2022.10.12-04.48.28:772][659]Cmd: DELETE
+[2022.10.12-04.48.28:772][659]Cmd: ACTOR DELETE
+[2022.10.12-04.48.28:789][659]LogEditorActor: Deleted Actor: PlayerButton_BP_2_C
+[2022.10.12-04.48.28:809][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.10.12-04.48.28:819][659]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.10.12-04.48.44:122][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.10.12-04.48.45:424][559]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Pickups/HealthPackChild_BP_2.HealthPackChild_BP_2
+[2022.10.12-04.48.48:415][706]LogSlate: Window 'HealthPackChild_BP_2' being destroyed
+[2022.10.12-04.48.48:437][706]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-04.48.48:437][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-04.48.48:498][706]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Pickups/HealthPackChild_BP_2.HealthPackChild_BP_2
+[2022.10.12-04.49.17:604][979]LogSlate: Window 'HealthPackChild_BP_2' being destroyed
+[2022.10.12-04.49.17:633][979]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-04.49.17:633][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-04.49.19:253][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.10.12-04.49.20:152][ 61]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.12-04.49.20:203][ 61]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/LearningKit_Games/Blueprints/Pickups/HealthPackChild_BP_2.HealthPackChild_BP_2
+[2022.10.12-04.49.20:554][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.10.12-04.49.20:589][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.10.12-04.49.22:831][164]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.12-04.49.22:834][164]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.10.12-04.49.23:610][164]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.10.12-04.49.23:630][164]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.10.12-04.49.23:644][164]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.10.12-04.49.26:397][327]LogContentBrowser: Attempting asset rename: NewBlueprint -> Finish
+[2022.10.12-04.49.26:402][327]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.10.12-04.49.26:647][341]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Finish.Finish
+[2022.10.12-04.49.49:462][299]BlueprintLog: New page: Compile Finish
+[2022.10.12-04.49.49:500][299]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2022.10.12-04.49.50:413][334]LogSavePackage: Moving '../../../../../../Users/murat/OneDrive/Masaüstü/CS415_MP2/UnrealLearningKit/Saved/FinishFC8623FA40596D55FC457BAC3F622D40.tmp' to '../../../../../../Users/murat/OneDrive/Masaüstü/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Finish.uasset'
+[2022.10.12-04.49.50:433][334]AssetCheck: New page: Asset Save: Finish
+[2022.10.12-04.49.50:434][334]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Finish.Finish
+[2022.10.12-04.50.14:603][475]BlueprintLog: New page: Compile Finish
+[2022.10.12-04.50.14:650][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.10.12-04.50.15:358][505]LogSavePackage: Moving '../../../../../../Users/murat/OneDrive/Masaüstü/CS415_MP2/UnrealLearningKit/Saved/Finish42D3E50D42DFDBD3355742A2F303EA3F.tmp' to '../../../../../../Users/murat/OneDrive/Masaüstü/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Finish.uasset'
+[2022.10.12-04.50.15:373][505]AssetCheck: New page: Asset Save: Finish
+[2022.10.12-04.50.15:373][505]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Finish.Finish
+[2022.10.12-04.50.48:707][ 62]BlueprintLog: New page: Compile Finish
+[2022.10.12-04.50.48:746][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.10.12-04.50.49:172][ 80]LogSavePackage: Moving '../../../../../../Users/murat/OneDrive/Masaüstü/CS415_MP2/UnrealLearningKit/Saved/Finish48CD633247DA5AF2458BD6B151C3118D.tmp' to '../../../../../../Users/murat/OneDrive/Masaüstü/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/Finish.uasset'
+[2022.10.12-04.50.49:188][ 80]AssetCheck: New page: Asset Save: Finish
+[2022.10.12-04.50.49:188][ 80]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Pickups/Finish.Finish
+[2022.10.12-04.50.57:056][512]LogSlate: Window 'Message Log' being destroyed
+[2022.10.12-04.50.57:081][512]LogSlate: Window 'Message Log' being destroyed
+[2022.10.12-04.50.59:842][668]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.BP_LearningKit_PlayerCharacter
+[2022.10.12-04.51.06:451][ 38]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.12-04.51.06:456][ 38]LogSlate: Window 'BP_LearningKit_PlayerCharacter' being destroyed
+[2022.10.12-04.51.06:460][ 38]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-04.51.06:460][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-04.51.06:543][ 38]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.12-04.51.06:543][ 38]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-04.51.06:543][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-04.51.55:782][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.10.12-04.51.55:919][882]LogSavePackage: Moving '../../../../../../Users/murat/OneDrive/Masaüstü/CS415_MP2/UnrealLearningKit/Saved/New_Level24B5C7B24C0F5F15BBE02AA8E8D4FCA0.tmp' to '../../../../../../Users/murat/OneDrive/Masaüstü/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/New_Level.umap'
+[2022.10.12-04.51.55:944][882]AssetCheck: New page: Asset Save: New_Level
+[2022.10.12-04.51.55:945][882]LogContentValidation: Display: Validating World /Game/LearningKit_Games/Maps/New_Level.New_Level
